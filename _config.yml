@@ -1,5 +1,7 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: 
+title: H.M.Touhid Mia
+description: DevOps Bit Mascot Pvt. Ltd
+collections:
+  photo_gallery:
+  bootstrap:
+    permalink: /bootstrap
+    output: true
